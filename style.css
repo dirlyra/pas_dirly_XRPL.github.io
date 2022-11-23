@@ -1,0 +1,80 @@
+.atas{
+    margin: 20px;
+    width: 100%;
+    height: 25%;
+
+}
+
+ul li{
+    list-style: none;
+    font-size: 15px;
+    display: inline-block;
+
+}
+
+ul li a {
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-size: 30px;
+}
+
+.camin{
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 20px;
+}
+.a{
+    padding: 10px;
+}
+h2{
+    margin-left: 40px;
+}
+
+.by{
+    margin-left: 40px;
+}
+
+.tgl{
+    margin-left: 40px;
+}
+
+.mainn{
+    margin: 35px;
+    width: 80%;
+    
+}
+
+.navimg{
+    width: 45%;
+    height: 10%;
+    margin-left: -15%;
+    margin-right: -100%;
+
+    
+}
+
+.navbarr ul li a{
+    padding: 10px;
+    font-size: 10px;
+}
+
+.navbarr{
+}
+
+.garis{
+    width: 75%
+    height: 2px;;
+    background-color: #dadfe5;
+    display: block;
+}
+
+.satu{
+    margin-left: 30px;
+}
+.dua{
+    margin-left: 30px;
+}
+.tiga{
+    margin-left: 30px;
+}
